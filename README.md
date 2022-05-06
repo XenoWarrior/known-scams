@@ -2,6 +2,24 @@ Please feel free to contribute. I know there are more scams, but here are the mo
 
 Scams are all over Discord and the internet in general, please take a moment to familiarise yourself with the following types of scam:
 
+# Discord QR Code Scam (TODO: Rewrite in correct format)
+(this was taken from a post I made on Discord, and needs to be rewritten into the format of this document)
+
+**PSA** 
+You may or may not know, but luckily none of the members in this server appear to have been affected by this as yet, so I wanted to take some time to ping out the info before someone eventually falls for it!
+
+If you join a server that requests you to verify your account by scanning a Discord QR code with the Discord mobile app, this is a scam and will steal your account. By scanning those Discord QR codes with the mobile app, you are granting scammers access to your account. 
+
+Never scan any Discord QR code with the Discord app unless **you** are using it to log into your account on the desktop/web application 
+(at `https://discord.com/login`).
+
+This is what the Discord QR code looks like:
+https://ss1.projectge.com/api/v1/81ee429c-40f1-4f6e-8e82-ee962fff8488
+
+... and here is what the scam looks like: https://ss1.projectge.com/api/v1/f789f65d-bfea-44b8-a035-8b989c22c4db
+
+||[@ everyone] sorry for ping, but I want to make sure y'all know and stay safe!||
+
 # Discord Malware Scam
 __Summary:__
 
